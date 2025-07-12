@@ -28,3 +28,5 @@ This project is highly beneficial for understanding collaborative filtering, a w
 
 Overall, this Java application provides a clean, practical implementation of a user-based recommender system using Apache Mahout. It’s a strong starting point for anyone interested in building personalized recommendation engines and can be extended with additional features like item-based filtering, hybrid methods, GUI integration, or real-time recommendations via a web interface.
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/fd82a4c3-410e-4cce-a4b1-67ffbf60f06f)
